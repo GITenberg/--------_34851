@@ -1,0 +1,42 @@
+_repo: '--------_34851'
+_version: 0.1.0
+alternative_title: Idylls
+contributor:
+  translator:
+    agent_name: Polemes, Ioannes
+    aliases:
+    - Πολέμης, Ιωάννης
+    - Polemis, Ioannis
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '35226'
+    url: http://www.gutenberg.org/2009/agents/35226
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Theocritus
+    aliases:
+    - Theokritos
+    - Θεόκριτος
+    - Theókritos
+    birthdate: -300
+    deathdate: -260
+    gutenberg_agent_id: '1574'
+    url: http://www.gutenberg.org/2009/agents/1574
+    wikipedia: http://en.wikipedia.org/wiki/Theocritus
+description: ''
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34851'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral poetry, Greek'
+- !lcc 'PA'
+title: Ειδύλλια
+url: http://www.gutenberg.org/ebooks/34851
